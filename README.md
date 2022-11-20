@@ -15,11 +15,13 @@ Languages I've been exposed to
 
 Tools I use
 - VS Code
+- Visual Studio
 - IntelliJ
 - PyCharm
 - Vim
 - NeoVim
 - Git
+- GitHub
 
 <!---
 towel-cool/towel-cool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
