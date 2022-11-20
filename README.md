@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @towel-cool
+- 👋 Hi, I’m @towel-cool or Diego Diaz
 - 🌱 I’m currently learning Algorithms
 - 📫 How to reach me: dd.diaz2205@gmail.com
 
