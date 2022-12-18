@@ -2,11 +2,9 @@
 - 🌱 I’m currently learning Algorithms
 - 📫 How to reach me: dd.diaz2205@gmail.com
 
-Proficient Languages
+Languages I've Learned:
 - Python
 - Java
-
-Languages I've been exposed to
 - JavaScript
 - HTML
 - CSS
