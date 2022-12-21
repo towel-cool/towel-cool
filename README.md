@@ -9,7 +9,6 @@ Languages I've Learned:
 - HTML
 - CSS
 - C
-- C#
 
 Tools I use
 - VS Code
