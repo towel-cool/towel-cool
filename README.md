@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @towel-cool or Diego Diaz
-- 🌱 I’m currently learning Algorithms
+- 🌱 I’m currently learning Algorithms and Data Structures
 - 📫 How to reach me: dd.diaz2205@gmail.com
 
 Languages I've Learned:
